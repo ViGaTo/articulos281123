@@ -1,0 +1,22 @@
+{
+    "name": "usuario/articulos281123",
+    "description": "Tarea Articulos",
+    "type": "project",
+    "license": "free",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ViGaTo",
+            "email": "vic3000shadow@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6",
+        "fakerphp/faker": "^1.23",
+        "mmo/faker-images": "^0.9.0"
+    }
+}
